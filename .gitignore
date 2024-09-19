@@ -1,0 +1,6 @@
+# IDE related
+.idea/
+.vscode/
+
+# Temporary files & test files
+.FolderTest/
